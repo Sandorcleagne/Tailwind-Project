@@ -16,8 +16,8 @@ const Hero = () => {
             Has Gone Before...
           </h2>
           <p className="max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-slate-400">
-            We&#39; re building rockets for the next century today. From the
-            Moon to Mars, Jupiter to beyond...
+            We re building rockets for the next century today. From the Moon to
+            Mars, Jupiter to beyond...
           </p>
           <p className="max-w-md text-2xl mt-4 text-center sm:text-left text-slate-700 dark:text-slate-400">
             Think Acme Rockets.
