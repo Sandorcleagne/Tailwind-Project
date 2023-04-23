@@ -9,12 +9,12 @@ const NavBar = () => {
         </h1>
         <div>
           <button
-            id="mobile-open-button"
-            className="text-3xl sm:hidden focus:outline-none"
+            id="hamburger-button"
+            className="text-3xl md:hidden focus:outline-none cursor-pointer"
           >
             &#9776;
           </button>
-          <nav className="hidden sm:block space-x-8 text-xl" aria-label="main">
+          <nav className="hidden md:block  space-x-8 text-xl" aria-label="main">
             <a href="#rockets" className="hover:opacity-90">
               Our Rockets
             </a>
